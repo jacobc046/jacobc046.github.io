@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    margin: 0;
+}
+
+#bio {
+    font-size: 20px;
+}
+
+img {
+    width: 200px;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+li {
+    font-size: large;
+}
+
+table {
+    border: 1px dashed;
+    padding: 10px;
+    border-collapse: collapse;
+}
+
+caption {
+    font-weight: bold;
+    color: blue;
+    font-size: larger;
+}
+
+th, td {
+    border: 1px solid;
+    margin: 0;
+    width: 200px;
+    text-align: center;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
